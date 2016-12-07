@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             super.onPreExecute();
             // Showing progress dialog
             pDialog = new ProgressDialog(MainActivity.this);
-            pDialog.setMessage("Please wait...");
+            pDialog.setMessage("Espere un momento...");
             pDialog.setCancelable(false);
             pDialog.show();
 
