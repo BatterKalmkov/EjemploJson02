@@ -1,5 +1,5 @@
 # EjemploJson02
-## Ejemplo android, php, json u mysql
+## Ejemplo android, php, json y mysql
 ## Incluye:
 -  Archivo php
 -  Archivo SQL
